@@ -1,8 +1,6 @@
 body {
   text-align: center;
-/*   background-color: rgb(14, 178, 233); */
-   background: rgb(238,174,202);
-  background-color: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
+ background-color: rgb(14, 178, 233); 
 }
 
 h1 {
